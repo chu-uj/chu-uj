@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chu-uj
-- 👀 I’m interested in Java...
-- 🌱 I’m currently learning Python ...
-- 📫 You could reach me to my email : yujung.chu1@gmail.com 
+- 👀 I’m interested in Back End Development
+- 🌱 I’m currently learning Java, Spring, Python, Django, Javascript jQuery, JSP, Machine Learning ...
+- 📫 You can reach me at yujung.chu1@gmail.com 
 
 <!---
 chu-uj/chu-uj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
